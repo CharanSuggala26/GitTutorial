@@ -128,3 +128,12 @@ Initialize a new Git repository:
 ```bash
 git init
 # Creates .git directory with all necessary files
+# Git Add Command Reference
+
+## Description
+The `git add` command adds file contents to the staging area (index), preparing them for inclusion in the next commit.
+
+## Basic Syntax
+```bash
+git add [options] [<pathspec>...]
+```
