@@ -2,7 +2,7 @@
 
 ![Git Banner](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
-A complete reference guide to Git version control system covering all essential commands and workflows from basic to advanced levels.
+A complete  guide to Git version control system covering all essential commands and workflows from basic to advanced levels.
 
 ## 📚 Complete Git Tutorial Index (A-Z)
 
